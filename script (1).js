@@ -289,7 +289,7 @@ document.getElementById('startBtn').addEventListener('click', async () => {
 });
 
 document.getElementById('creatorChannelBtn').addEventListener('click', () => {
-    window.location.href = 'https://t.me/pdosi_project';
+    window.location.href = 'https://t.me/Earn_bd_0';
 });
 
 function generateClientId() {
